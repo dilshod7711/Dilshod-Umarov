@@ -18,8 +18,7 @@ const Projects = () => {
         "The project is built using Vite, React, and Tailwind CSS, with a high level of optimization.",
       image: eurolink,
       tech: ["React", "Tailwind", "Vite", "SEO"],
-      github: "https://github.com/dilshod2007/exam-ebay.git",
-      live: "https://exam-ebay-plum.vercel.app/",
+      live: "https://eurolink-cg-delta.vercel.app/",
     },
     {
       title: "Ezma Library",
