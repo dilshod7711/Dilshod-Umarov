@@ -2,7 +2,7 @@ import { AiOutlineDownload } from "react-icons/ai";
 import React, { useState, useEffect } from "react";
 import { Typewriter } from "react-simple-typewriter";
 import ConnectedDots from "./ConnectedDots.jsx";
-import cv from "../../assets/Umbarov Dilshod Resume.pdf";
+import cv from "../../assets/Dilshod Umbarov (3).pdf";
 
 const Header = () => {
   const [delayDone, setDelayDone] = useState(false);
